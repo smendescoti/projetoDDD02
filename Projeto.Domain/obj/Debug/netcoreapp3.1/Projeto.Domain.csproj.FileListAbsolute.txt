@@ -1,0 +1,17 @@
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C#. NET - SegSexta Manha\Aula 36 - 05.10.2020\ProjetoDDD02\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.deps.json
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C#. NET - SegSexta Manha\Aula 36 - 05.10.2020\ProjetoDDD02\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C#. NET - SegSexta Manha\Aula 36 - 05.10.2020\ProjetoDDD02\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C#. NET - SegSexta Manha\Aula 36 - 05.10.2020\ProjetoDDD02\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.csprojAssemblyReference.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C#. NET - SegSexta Manha\Aula 36 - 05.10.2020\ProjetoDDD02\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C#. NET - SegSexta Manha\Aula 36 - 05.10.2020\ProjetoDDD02\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C#. NET - SegSexta Manha\Aula 36 - 05.10.2020\ProjetoDDD02\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C#. NET - SegSexta Manha\Aula 36 - 05.10.2020\ProjetoDDD02\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C#. NET - SegSexta Manha\Aula 36 - 05.10.2020\ProjetoDDD02\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C#. NET - SegSexta Manha\Aula 37 - 06.10.2020\ProjetoDDD02\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.deps.json
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C#. NET - SegSexta Manha\Aula 37 - 06.10.2020\ProjetoDDD02\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C#. NET - SegSexta Manha\Aula 37 - 06.10.2020\ProjetoDDD02\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C#. NET - SegSexta Manha\Aula 37 - 06.10.2020\ProjetoDDD02\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C#. NET - SegSexta Manha\Aula 37 - 06.10.2020\ProjetoDDD02\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C#. NET - SegSexta Manha\Aula 37 - 06.10.2020\ProjetoDDD02\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C#. NET - SegSexta Manha\Aula 37 - 06.10.2020\ProjetoDDD02\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C#. NET - SegSexta Manha\Aula 37 - 06.10.2020\ProjetoDDD02\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.pdb
