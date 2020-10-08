@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 38 - 07.10.2020\\ProjetoDDD02\\Projeto.Application\\Projeto.Application.csproj": {}
+    "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 39 - 08.10.2020\\ProjetoDDD02\\Projeto.Application\\Projeto.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 38 - 07.10.2020\\ProjetoDDD02\\Projeto.Application\\Projeto.Application.csproj": {
+    "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 39 - 08.10.2020\\ProjetoDDD02\\Projeto.Application\\Projeto.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 38 - 07.10.2020\\ProjetoDDD02\\Projeto.Application\\Projeto.Application.csproj",
+        "projectUniqueName": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 39 - 08.10.2020\\ProjetoDDD02\\Projeto.Application\\Projeto.Application.csproj",
         "projectName": "Projeto.Application",
-        "projectPath": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 38 - 07.10.2020\\ProjetoDDD02\\Projeto.Application\\Projeto.Application.csproj",
+        "projectPath": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 39 - 08.10.2020\\ProjetoDDD02\\Projeto.Application\\Projeto.Application.csproj",
         "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 38 - 07.10.2020\\ProjetoDDD02\\Projeto.Application\\obj\\",
+        "outputPath": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 39 - 08.10.2020\\ProjetoDDD02\\Projeto.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -34,8 +34,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 38 - 07.10.2020\\ProjetoDDD02\\Projeto.Domain\\Projeto.Domain.csproj": {
-                "projectPath": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 38 - 07.10.2020\\ProjetoDDD02\\Projeto.Domain\\Projeto.Domain.csproj"
+              "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 39 - 08.10.2020\\ProjetoDDD02\\Projeto.Domain\\Projeto.Domain.csproj": {
+                "projectPath": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 39 - 08.10.2020\\ProjetoDDD02\\Projeto.Domain\\Projeto.Domain.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 38 - 07.10.2020\\ProjetoDDD02\\Projeto.Domain\\Projeto.Domain.csproj": {
+    "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 39 - 08.10.2020\\ProjetoDDD02\\Projeto.Domain\\Projeto.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 38 - 07.10.2020\\ProjetoDDD02\\Projeto.Domain\\Projeto.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 39 - 08.10.2020\\ProjetoDDD02\\Projeto.Domain\\Projeto.Domain.csproj",
         "projectName": "Projeto.Domain",
-        "projectPath": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 38 - 07.10.2020\\ProjetoDDD02\\Projeto.Domain\\Projeto.Domain.csproj",
+        "projectPath": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 39 - 08.10.2020\\ProjetoDDD02\\Projeto.Domain\\Projeto.Domain.csproj",
         "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 38 - 07.10.2020\\ProjetoDDD02\\Projeto.Domain\\obj\\",
+        "outputPath": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 39 - 08.10.2020\\ProjetoDDD02\\Projeto.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

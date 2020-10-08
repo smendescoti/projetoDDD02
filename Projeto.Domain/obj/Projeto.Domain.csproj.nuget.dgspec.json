@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 37 - 06.10.2020\\ProjetoDDD02\\Projeto.Domain\\Projeto.Domain.csproj": {}
+    "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 39 - 08.10.2020\\ProjetoDDD02\\Projeto.Domain\\Projeto.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 37 - 06.10.2020\\ProjetoDDD02\\Projeto.Domain\\Projeto.Domain.csproj": {
+    "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 39 - 08.10.2020\\ProjetoDDD02\\Projeto.Domain\\Projeto.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 37 - 06.10.2020\\ProjetoDDD02\\Projeto.Domain\\Projeto.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 39 - 08.10.2020\\ProjetoDDD02\\Projeto.Domain\\Projeto.Domain.csproj",
         "projectName": "Projeto.Domain",
-        "projectPath": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 37 - 06.10.2020\\ProjetoDDD02\\Projeto.Domain\\Projeto.Domain.csproj",
+        "projectPath": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 39 - 08.10.2020\\ProjetoDDD02\\Projeto.Domain\\Projeto.Domain.csproj",
         "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 37 - 06.10.2020\\ProjetoDDD02\\Projeto.Domain\\obj\\",
+        "outputPath": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 39 - 08.10.2020\\ProjetoDDD02\\Projeto.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

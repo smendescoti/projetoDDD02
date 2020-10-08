@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NiK8IDfx69cxA03YlwlqP+GDAKIMb+snrOrwa5Xwpeo05vXvNFbKTVyIwteMalgOmL22/mf6YYZvJ3Hk6px2Zw==",
+  "dgSpecHash": "wadD0t8PAvQ4QT3HLozE2012RUDbN2m5p64Z6htjtbAVOXnTJiSIv9gXiFtDyN4EFAm2gt9vJdtM74dc37Drig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 37 - 06.10.2020\\ProjetoDDD02\\Projeto.Infra.Data\\Projeto.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\sergi\\OneDrive\\Área de Trabalho\\Aulas EAD\\C#. NET - SegSexta Manha\\Aula 39 - 08.10.2020\\ProjetoDDD02\\Projeto.Infra.Data\\Projeto.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sergi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\sergi\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
